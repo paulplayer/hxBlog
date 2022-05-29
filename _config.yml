@@ -129,7 +129,7 @@ hfc_img:
   enable: true
   interlaced: false
   multipass: false
-  optimizationLevel: 3
+  optimizationLevel: 5
   pngquant: false
   progressive: false
   webp: true
@@ -163,4 +163,4 @@ lazyload:
   onlypost: false # optional
   loadingImg: # optional eg ./images/loading.gif
   isSPA: false # optional
-  preloadRatio: 2 # optional, default is 1
+  preloadRatio: 3 # optional, default is 1
