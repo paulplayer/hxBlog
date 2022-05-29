@@ -16,6 +16,6 @@ update: 2019-11-01 15:23:20
 
 <!-- more -->
 
-### [Paul Zhang](/about/author.html)
+### [Zhang PengLe](/about/author.html)
 
 琴心剑胆书生梦，放荡江湖载酒行。
