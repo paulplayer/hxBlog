@@ -1,0 +1,22 @@
+<footer id="footer">
+    <div class="container">
+        <div class="container-inner">
+            <a id="back-to-top" href="javascript:;"><i class="icon fa fa-angle-up"></i></a>
+            <div class="credit">
+                <h1 class="logo-wrap">
+                    <a href="<%- url_for() %>" class="logo"></a>
+                </h1>
+                <p>&copy; <%= date(new Date(), 'YYYY') %> <a href="/about/index.html"> <%= config.author %> .</a>
+                &nbsp; <a href="https://beian.miit.gov.cn/"  target="_blank">京ICP备20030464号-2</a>
+                &nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502042299"  target="_blank">京公网安备11010502042299号</a>
+                </p>
+                <% if (theme.poweredby) { %>
+                <p>Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>. Theme by <a href="https://github.com/ppoffice" target="_blank">PPOffice</a></p>
+                <% } %>
+            </div>
+            <div class="footer-plugins">
+              <%- partial('plugin/scripts', { isFooter: true }) %>
+            </div>
+        </div>
+    </div>
+</footer>
