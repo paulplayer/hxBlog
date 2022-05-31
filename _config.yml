@@ -164,3 +164,14 @@ lazyload:
   loadingImg: # optional eg ./images/loading.gif
   isSPA: false # optional
   preloadRatio: 5 # optional, default is 1
+
+## Google Sitemap
+sitemap:
+  path: sitemap.xml 
+
+
+
+## Baidu Sitemap
+baidusitemap:
+  path: baidusitemap.xml
+

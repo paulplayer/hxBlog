@@ -96,8 +96,8 @@ plugins:
     justifiedgallery: true # options: true, false
     google_analytics: G-XC6HVFPDY0 # enter the tracking ID for your Google Analytics
     google_adsense:
-      publisher_id: # enter the adsense publisher ID (pub-XXXXXXXXXXXXXXX) for your google adsense
-      ad_slot: # the id of your add unit
+      publisher_id: pub-3335512305684205 # enter the adsense publisher ID (pub-XXXXXXXXXXXXXXX) for your google adsense
+      ad_slot: 8503164563 # the id of your add unit
     baidu_analytics: 13c6288337f2f0da5475d0ffa4bcabfe # enter Baidu Analytics hash key
     bing_site_verification: # enter Bing verification key here
     statcounter:
