@@ -6,6 +6,10 @@ index:
     category: '分类'
     uncategorized: '未分类'
     tag: '标签'
+    categories:
+        origin: '原创'
+        read: '读书'
+        trip: '旅行'
 nav:
     current_page:
         other: '第 %d 页，'
@@ -40,4 +44,5 @@ counter:
     time_total: 站点阅读时长
     time_minutes: 分钟
 adsense:
-    sponsored: Sponsored
+    sponsored: 赞助
+

@@ -2,10 +2,9 @@
 title: 关于
 tags:
     - About
-categories: 
-	- 关于
 date: 2016-06-13 21:06:10
 update: 2019-11-01 15:23:20
+comments: false
 ---
 
 {% blockquote —— 致初心%}
@@ -16,6 +15,6 @@ update: 2019-11-01 15:23:20
 
 <!-- more -->
 
-### [Zhang PengLe](/about/author.html)
+### [个人简介](about/author.html)
 
 琴心剑胆书生梦，放荡江湖载酒行。

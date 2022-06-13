@@ -8,14 +8,17 @@ subtitle: 爱读书，爱旅行，爱创作。你的坚持，终将美好。
 description: PengLe's Blog | 一个记录个人成长的地方。
 keywords: Paul,Paulplayer,PengLe,ZhangPengLe,鹏乐,张鹏乐,Blog,博客,Hexo,Hugo,Jekyll,数据,大数据,数据科学家,数据工程师,数据架构师,数据科学,数据统计,数据分析,数据采集,数据建模,数据BI,BI分析,Data,Big Data,Data Scientist,Data Engineer,Data Architect
 author: Zhang PengLe
-language: zh-CN
+language:
+  - zh-CN
+  - en
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://paulplayer.com/
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
+  lang: zh-CN
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks

@@ -1,14 +1,13 @@
 ---
-title: 个人简历
+title: 个人简介
 tags:
     - About
-categories: 
-	- 关于
 message: 内容已加密，请在此输入密码后访问。
 wrong_pass_message: 密码错误，请重新输入正确密码。
 password: bgnw
 date: 2020-06-13 21:06:10
 update: 2022-03-28 15:23:20
+comments: false
 ---
 
 {% blockquote —— 勿忘初心%}

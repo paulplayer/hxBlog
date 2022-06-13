@@ -3,7 +3,7 @@ menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/index.html
+    About: /about/index/
 
 # Customize
 customize:
@@ -22,16 +22,16 @@ customize:
         # stack-overflow: /
         # weibo: https://m.weibo.cn/u/2614754430
         github: https://github.com/paulplayer
-        # rss: /
+        rss: /
 
 # Widgets
 widgets:
     # - catalog
     - recent_posts
-    - category
-    - archive
+    # - category
     # - tag
     - tagcloud
+    - archive
     - links
     # - google_adsense
 
@@ -120,7 +120,7 @@ miscellaneous:
         fb_admins:
         twitter_id:
     links:
-        Formulas官网: https://fd2a.com
-        Hexo官网: http://hexo.io
+        Formulas: https://formulas.cc
+        Hexo: http://hexo.io
 
 poweredby: false

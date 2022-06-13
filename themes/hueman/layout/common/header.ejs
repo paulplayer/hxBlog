@@ -19,10 +19,14 @@
                             <% for (var i in theme.menu) {
                                     if (i == 'Categories') { %>
                                         <%- list_categories({
+                                            order: 1,
                                             depth: 2,
                                             style: 'list',
                                             class: 'main-nav',
                                             show_count: false,
+                                            transform(str) {
+                                                return titlecase(__('index.categories.' + str.toLowerCase()));
+                                              }
                                         }) %>
                                     <% } else { %>
                                 <li class="main-nav-list-item" >

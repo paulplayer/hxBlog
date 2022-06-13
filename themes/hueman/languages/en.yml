@@ -6,6 +6,10 @@ index:
     category: 'Category'
     uncategorized: 'uncategorized'
     tag: 'Tag'
+    categories:
+        origin: 'Origin'
+        read: 'Reading'
+        trip: 'Traveling'
 nav:
     current_page:
         other: 'Page %d '
