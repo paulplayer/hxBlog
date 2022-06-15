@@ -99,6 +99,7 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
 ## Themes: https://hexo.io/themes/
 theme: hueman
 
@@ -175,3 +176,8 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+## RSS feed
+feed:
+    type: atom
+    path: atom.xml
+    limit: false

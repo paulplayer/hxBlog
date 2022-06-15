@@ -22,7 +22,7 @@ customize:
         # stack-overflow: /
         # weibo: https://m.weibo.cn/u/2614754430
         github: https://github.com/paulplayer
-        rss: /
+        rss: /atom.xml
 
 # Widgets
 widgets:
@@ -33,7 +33,7 @@ widgets:
     - tagcloud
     - archive
     - links
-    # - google_adsense
+    - google_adsense
 
 # Search
 search:

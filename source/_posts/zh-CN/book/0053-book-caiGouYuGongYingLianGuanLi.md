@@ -28,13 +28,13 @@ date: 2021-04-20 22:14:09
 
 读到书中一些觉得有用的地方，便也截取附到下面了，希望对自己对别人有所帮助。
 
-{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi-01.png 500 供应链降本三台阶 %}
+{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi01.png 500 供应链降本三台阶 %}
 <p align="center"><b>供应链降本三台阶</b></p>
 
-{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi-02.png 500 供应商管理的五步流程 %}
+{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi02.png 500 供应商管理的五步流程 %}
 <p align="center"><b>供应商管理的五步流程</b></p>
 
-{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi-03.png 500 从小采购到大采购 %}
+{% img /gallery/book/0053-caiGouYuGongYingLianGuanLi03.png 500 从小采购到大采购 %}
 <p align="center"><b>从小采购到大采购</b></p>
 
 书中一些核心思想：

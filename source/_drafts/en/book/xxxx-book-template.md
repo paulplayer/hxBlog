@@ -10,7 +10,7 @@ categories:
 date: 20xx-xx-xx xx:xx:xx
 ---
 
-{% blockquote —— 书中摘录 %}
+{% blockquote —— xxx %}
 xxx
 {% endblockquote %}
 
@@ -26,4 +26,4 @@ xxx
 
 xxx
 
-《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）
+《xxx》[Book Link](https://pan.baidu.com/s/)（Fetch Code: ）
