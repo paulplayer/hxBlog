@@ -22,6 +22,7 @@ Disallow: /img/
 Disallow: /lib/
 Disallow: /libs/
 Disallow: /fonts/
+Disallow： /.github/
 
 Sitemap: https://paulplayer.com/sitemap.xml
 Sitemap: https://paulplayer.com/baidusitemap.xml

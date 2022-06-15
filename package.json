@@ -7,7 +7,7 @@
     "debug": "hexo server -p 4400 --watch --debug",
     "clean": "hexo clean",
     "build": "hexo clean && hexo generate",
-    "release": "hexo deploy --generate"
+    "release": "hexo deploy"
   },
   "hexo": {
     "version": "6.2.0"
