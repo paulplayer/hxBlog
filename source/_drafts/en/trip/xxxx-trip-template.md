@@ -7,6 +7,7 @@ tags:
     - xxx
 categories:
 	- Trip
+lang: en
 date: 20xx-xx-xx xx:xx:xx
 ---
 

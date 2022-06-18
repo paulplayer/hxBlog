@@ -7,6 +7,7 @@ tags:
 	- xxx
 categories: 
 	- Origin
+lang: en
 date: 2019-xx-xx xx:xx:xx
 ---
 
@@ -15,7 +16,7 @@ xxx
 {% endblockquote %}
 <!-- more -->
 
-## 插图
+## PICTURES
 {% img /gallery/origin/xxx.jpg 500 xxx %}
 <p align="center"><b>xxx</b></p>
 

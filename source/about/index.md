@@ -15,6 +15,6 @@ comments: false
 
 <!-- more -->
 
-### [个人简介](/about/author)
+### [个人简介](/about/author/)
 
 琴心剑胆书生梦，放荡江湖载酒行。

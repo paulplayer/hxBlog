@@ -7,6 +7,7 @@ tags:
 	- xxx
 categories:
 	- Read
+lang: en
 date: 20xx-xx-xx xx:xx:xx
 ---
 
@@ -16,7 +17,7 @@ xxx
 
 <!-- more -->
 
-## 插图
+## PICTURES
 {% img /gallery/book/xxx.png 500 xxx %}
 <p align="center"><b>xxx</b></p>
 
