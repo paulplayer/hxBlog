@@ -98,6 +98,7 @@ include:
   - robots.txt
   - .github/**/**
 exclude:
+  - urls.txt
 ignore:
 
 # Extensions

@@ -7,7 +7,7 @@ tags:
 	- Hightech
 categories: 
 	- Origin
-date: 2019-xx-xx xx:xx:xx
+date: 2022-06-18 17:30:18
 ---
 
 {% blockquote —— 写在前面 %}
@@ -16,8 +16,8 @@ date: 2019-xx-xx xx:xx:xx
 <!-- more -->
 
 ## 插图
-{% img /gallery/origin/0020-modernDataStack.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/origin/0020-modernDataStack.png 500 Modern Data Stack %}
+<p align="center"><b>Modern Data Stack</b></p>
 
 -----
 
