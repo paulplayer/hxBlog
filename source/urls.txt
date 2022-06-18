@@ -2,7 +2,6 @@ https://paulplayer.com/
 https://paulplayer.com/atom.xml
 https://paulplayer.com/sitemap.xml
 https://paulplayer.com/baidusitemap.xml
-https://paulplayer.com/zh-CN/origin/0020-origin-modernDataStack/
 https://paulplayer.com/en/trip/0001-trip-onTheRoad/
 https://paulplayer.com/zh-CN/book/0068-book-duoMoXingSiWei/
 https://paulplayer.com/zh-CN/book/0067-book-tengXunZhuan/
@@ -92,6 +91,7 @@ https://paulplayer.com/zh-CN/origin/0017-origin-zhiChangRenJiGuanXi/
 https://paulplayer.com/zh-CN/origin/0015-origin-yunJiSuanYuDaShuJu/
 https://paulplayer.com/zh-CN/origin/0018-origin-shiJiaZhuangDiaoYan/
 https://paulplayer.com/zh-CN/origin/0019-origin-naiNaiDeZangLi/
+https://paulplayer.com/zh-CN/origin/0020-origin-modernDataStack/
 https://paulplayer.com/zh-CN/trip/0003-trip-chiFeng/
 https://paulplayer.com/zh-CN/trip/0005-trip-xiAn/
 https://paulplayer.com/zh-CN/trip/0002-trip-biYeJi/
