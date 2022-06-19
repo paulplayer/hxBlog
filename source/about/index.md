@@ -11,10 +11,10 @@ comments: false
 你的坚持，终将美好；你的奋斗，终将伟大。
 {% endblockquote %}
 
-{% img /gallery/about/about-meihao.jpeg 600 你的坚持，终将美好。 %}
+{% img /gallery/about/about-meihao.jpeg 800 你的坚持，终将美好。 %}
 
 <!-- more -->
 
-### [个人简介](/about/author/)
+### [个人简介](/about/author)
 
 琴心剑胆书生梦，放荡江湖载酒行。

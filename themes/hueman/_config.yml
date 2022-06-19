@@ -3,7 +3,7 @@ menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/index/
+    About: /about/index
 
 # Customize
 customize:
@@ -33,7 +33,7 @@ widgets:
     - tagcloud
     - archive
     - links
-    - google_adsense
+    # - google_adsense
 
 # Search
 search:
