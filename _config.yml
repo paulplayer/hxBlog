@@ -4,10 +4,10 @@
 
 # Site
 title: PengLe's Blog
-subtitle: 爱读书，爱旅行，爱创作。你的坚持，终将美好。
-description: PengLe's Blog | 一个记录个人成长的地方。
-keywords: Paul,Paulplayer,PengLe,ZhangPengLe,鹏乐,张鹏乐,Blog,博客,Hexo,Hugo,Jekyll,数据,大数据,数据科学家,数据工程师,数据架构师,数据科学,数据统计,数据分析,数据采集,数据建模,数据BI,BI分析,Data,Big Data,Data Scientist,Data Engineer,Data Architect
-author: Zhang PengLe
+subtitle: 爱读书，爱旅行，爱创作。
+description: PengLe's Blog | 一个记录个人成长的地方
+keywords: Paul,Paulplayer,paulplayer.com,PengLe,PengLe Zhang,Zhang PengLe,ZhangPengLe,鹏乐,张鹏乐,白泽,Blog,博客,京东集团,京东企业业务,国防科大,国防科学技术大学,石家庄43中,石家庄外国语学校,军事科学院,系统所,北京,数据,大数据,数据科学家,数据工程师,数据架构师,数据科学,数据统计,数据分析,数据采集,数据建模,数据BI,BI分析,Data,Big Data,Data Scientist,Data Engineer,Data Architect
+author: PengLe Zhang
 language:
   - zh-CN
   - en
