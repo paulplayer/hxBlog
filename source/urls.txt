@@ -2,6 +2,8 @@ https://paulplayer.com/
 https://paulplayer.com/atom.xml
 https://paulplayer.com/sitemap.xml
 https://paulplayer.com/baidusitemap.xml
+https://paulplayer.com/about/index
+https://paulplayer.com/about/author
 https://paulplayer.com/en/trip/0001-trip-onTheRoad/
 https://paulplayer.com/zh-CN/book/0068-book-duoMoXingSiWei/
 https://paulplayer.com/zh-CN/book/0067-book-tengXunZhuan/
