@@ -32,10 +32,10 @@ Modern Data Stack（MDS）经常被翻译成现代数据栈，我更倾向于翻
 现代数据栈的概念是因为Snowflake的上市而引爆的，其让大家的目光聚集在云端数据仓库（Cloud Data Warehouse, CDW）这个概念上，在工程师们看来一切基础设施和服务都要“云”化的云原生时代，这种围绕在云上进行数据管理的技术栈既被称之为MDS。
 
 >Modern Data Stack（MDS）通常是指构成云原生数据平台的一组技术，对比传统的数据平台，使用它们可以降低复杂度。这个技术栈的构成组件不是固定的，但是它们通常包括：
+	>- 一个数据集成服务，比如Fivetran，Segment，Airbtye或者Stitchdata
 	>- 一个云端的数据仓库，比如Snowflake，Redshift，BigQuery或者Databricks Delta Lake
-	>- 一个数据集成服务，比如Fivetran，Segment或者Airbtye
-	>- 一个ELT数据转换工具，几乎确定是dbt
-	>- 一个BI层，例如Looker或者Mode
+	>- 一个ELT数据转换工具，比如dbt或者Dataform
+	>- 一个BI/AI层，比如Looker，Mode或者Matebase
 	>- 一个反向ETL工具，比如Census或者Hightouch
 
 当前阶段，国内各不同公司及机构对这其中的各个基本概念的表述都不够统一，近期看到国外Matebase公司的一篇文章对各个部分的概念解释最为具体和明确，基本上帮助我们理清了各个部分的关系。
