@@ -1,3 +1,6 @@
+# CND need refresh urls in the list.
+# Remember add the new pages.
+
 https://paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/
 https://paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/
 https://paulplayer.com/zh-CN/book/0069-book-ceLueChanPinJingLi/
@@ -107,6 +110,10 @@ https://paulplayer.com/zh-CN/book/0003-book-longTail/
 https://paulplayer.com/zh-CN/book/0001-book-reading/
 https://paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/
 https://paulplayer.com/en/trip/0001-trip-onTheRoad/
+https://paulplayer.com/about/author
+https://paulplayer.com/about/index
+https://paulplayer.com/about/
+https://paulplayer.com/
 
 https://www.paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/
 https://www.paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/
@@ -217,3 +224,7 @@ https://www.paulplayer.com/zh-CN/book/0003-book-longTail/
 https://www.paulplayer.com/zh-CN/book/0001-book-reading/
 https://www.paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/
 https://www.paulplayer.com/en/trip/0001-trip-onTheRoad/
+https://www.paulplayer.com/about/author
+https://www.paulplayer.com/about/index
+https://www.paulplayer.com/about/
+https://www.paulplayer.com/
