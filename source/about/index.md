@@ -7,11 +7,11 @@ update: 2019-11-01 15:23:20
 comments: false
 ---
 
-{% blockquote —— 致初心%}
+{% blockquote —— 勿忘初心%}
 你的坚持，终将美好；你的奋斗，终将伟大。
 {% endblockquote %}
 
-{% img /gallery/about/about-meihao.jpeg 800 你的坚持，终将美好。 %}
+{% img /gallery/about/about-meihao.jpg 800 你的坚持，终将美好。 %}
 
 <!-- more -->
 
