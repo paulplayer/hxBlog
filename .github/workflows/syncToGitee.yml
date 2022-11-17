@@ -16,6 +16,6 @@ jobs:
           dst_token:  ${{ secrets.GITEE_TOKEN }}
           account_type: 'user'
           static_list: 'HxBlog'
-          force_update: true
+          force_update: false
           debug: true
           timeout: '1h'
