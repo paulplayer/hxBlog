@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《DAMA数据管理知识体系指南》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-09-23 21:05:33
 ---
 
 {% blockquote —— Foreword %}

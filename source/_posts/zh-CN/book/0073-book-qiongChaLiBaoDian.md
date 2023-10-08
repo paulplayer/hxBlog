@@ -10,8 +10,8 @@ categories:
 date: 2022-10-06 13:34:26
 ---
 
-{% blockquote —— Foreword %}
-凡事往简单处想，往认真处行。——查理·芒格
+{% blockquote —— 查理·芒格 %}
+凡事往简单处想，往认真处行。
 {% endblockquote %}
 
 <!-- more -->

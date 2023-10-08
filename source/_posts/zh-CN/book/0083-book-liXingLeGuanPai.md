@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《理性乐观派》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-07-02 13:26:33
 ---
 
 {% blockquote —— Foreword %}

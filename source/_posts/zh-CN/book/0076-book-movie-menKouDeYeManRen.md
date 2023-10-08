@@ -1,13 +1,14 @@
 ---
-title: 《xxx》
+title: 《门口的野蛮人》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Movie
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-01-16 22:30:33
 ---
 
 {% blockquote —— Foreword %}
@@ -17,7 +18,7 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
+{% img /gallery/book/0076-menkoudeyemanren.jpg 500 xxx %}
 <p align="center"><b>xxx</b></p>
 
 -----

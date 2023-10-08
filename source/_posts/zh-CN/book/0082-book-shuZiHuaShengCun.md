@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《数字化生存》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-06-23 21:36:42
 ---
 
 {% blockquote —— Foreword %}

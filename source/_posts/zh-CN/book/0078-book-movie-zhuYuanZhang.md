@@ -1,13 +1,14 @@
 ---
-title: 《xxx》
+title: 《朱元璋》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Movie
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-02-25 21:22:46
 ---
 
 {% blockquote —— Foreword %}

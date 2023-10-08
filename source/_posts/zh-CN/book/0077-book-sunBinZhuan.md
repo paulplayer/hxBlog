@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《孙膑传》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-01-28 13:15:06
 ---
 
 {% blockquote —— Foreword %}

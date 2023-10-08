@@ -3,7 +3,6 @@ title: 成都
 tags:
     - Traveling
     - Feeling
-    - ZhangYe
 categories:
 	- Trip
 date: 2021-10-07 20:30:00

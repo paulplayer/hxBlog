@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《定价未来》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2022-11-08 21:26:55
 ---
 
 {% blockquote —— Foreword %}
@@ -17,8 +17,8 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0074-dingjiaweilai.jpg 500 定价未来 %}
+<p align="center"><b>定价未来</b></p>
 
 -----
 

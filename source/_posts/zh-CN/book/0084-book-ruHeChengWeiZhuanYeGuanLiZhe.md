@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《如何成为专业管理者》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-07-22 22:15:30
 ---
 
 {% blockquote —— Foreword %}

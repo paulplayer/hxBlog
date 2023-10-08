@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《Info-Q 架构师系列》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-05-12 12:22:51
 ---
 
 {% blockquote —— Foreword %}

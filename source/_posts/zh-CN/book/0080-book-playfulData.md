@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《Playful Data》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-04-12 12:26:33
 ---
 
 {% blockquote —— Foreword %}

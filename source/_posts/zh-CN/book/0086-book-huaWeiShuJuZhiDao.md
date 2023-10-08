@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《华为数据之道》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-08-18 07:23:15
 ---
 
 {% blockquote —— Foreword %}

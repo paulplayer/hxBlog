@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《遥远的救世主》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2022-12-21 15:53:36
 ---
 
 {% blockquote —— Foreword %}
@@ -17,8 +17,8 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0075-yaoyuandejiushizhu.png 500 遥远的救世主 %}
+<p align="center"><b>遥远的救世主</b></p>
 
 -----
 

@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《数据可视化》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Tech
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-03-23 23:13:08
 ---
 
 {% blockquote —— Foreword %}

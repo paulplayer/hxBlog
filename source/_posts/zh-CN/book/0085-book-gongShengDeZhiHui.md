@@ -1,13 +1,13 @@
 ---
-title: 《xxx》
+title: 《共生的智慧》
 tags:
 	- Reading
-	- xxx
-	- xxx
-	- xxx
+	- Business
+	- Economy
+	- Management
 categories:
 	- Read
-date: 20xx-xx-xx xx:xx:xx
+date: 2023-08-12 11:56:22
 ---
 
 {% blockquote —— Foreword %}
