@@ -17,13 +17,13 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0087-damashujuguanlizhishitixizhinan.png 500 DAMA数据管理知识体系指南 %}
+<p align="center"><b>DAMA数据管理知识体系指南</b></p>
 
 -----
 
-# 《xxx》
+# 《DAMA数据管理知识体系指南》
 
-xxx
+![Alt text](image.png)
 
 《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）

@@ -17,12 +17,12 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0083-lixingleguanpai.png 500 理性乐观派 %}
+<p align="center"><b>理性乐观派</b></p>
 
 -----
 
-# 《xxx》
+# 《理性乐观派》
 
 xxx
 

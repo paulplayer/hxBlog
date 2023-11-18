@@ -17,13 +17,13 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0086-huaweishujuzhidao.png 500 华为数据之道 %}
+<p align="center"><b>华为数据之道</b></p>
 
 -----
 
-# 《xxx》
+# 《华为数据之道》
 
-xxx
+![Alt text](image.png)
 
 《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）

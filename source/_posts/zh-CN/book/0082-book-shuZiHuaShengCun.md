@@ -17,13 +17,14 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0082-shuzihuashengcun.png 500 数字化生存 %}
+<p align="center"><b>数字化生存</b></p>
 
 -----
 
-# 《xxx》
+# 《数字化生存》
 
 xxx
+![Alt text](image.png)
 
 《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）

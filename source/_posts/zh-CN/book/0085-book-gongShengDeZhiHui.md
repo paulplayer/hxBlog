@@ -17,13 +17,13 @@ xxx
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0085-gongshengdezhihui.png 500 共生的智慧 %}
+<p align="center"><b>共生的智慧</b></p>
 
 -----
 
-# 《xxx》
+# 《共生的智慧》
 
 xxx
-
+![Alt text](image.png)
 《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）

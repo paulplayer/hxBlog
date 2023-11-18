@@ -1,5 +1,5 @@
 ---
-title: 《Info-Q 架构师系列》
+title: 《Info Q：架构师系列》
 tags:
 	- Reading
 	- Business
@@ -10,20 +10,18 @@ categories:
 date: 2023-05-12 12:22:51
 ---
 
-{% blockquote —— Foreword %}
-xxx
+{% blockquote —— Info Q %}
+促进软件开发及相关领域知识与创新的传播。
 {% endblockquote %}
 
 <!-- more -->
 
 ## 插图
-{% img /gallery/book/xxx.png 500 xxx %}
-<p align="center"><b>xxx</b></p>
+{% img /gallery/book/0081-infoQ.png 500 Info Q %}
+<p align="center"><b>Info Q</b></p>
 
 -----
 
-# 《xxx》
+# 《Info Q：架构师系列》
 
-xxx
-
-《xxx》[图书链接](https://pan.baidu.com/s/)（提取码: ）
+![Alt text](image.png)
