@@ -175,7 +175,7 @@ hfc_favicons:
 # lazyload
 lazyload:
   enable: true
-  onlypost: true # optional
+  onlypost: false # optional
   loadingImg: /css/images/loading.gif # optional eg ./images/loading.gif
   isSPA: false # optional
   preloadRatio: 3 # optional, default is 1
