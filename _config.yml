@@ -1,6 +1,7 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+## Node version: v12.22.12
 
 # Site
 # title: PengLe's Blog
@@ -16,7 +17,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://paulplayer.com/
+url: https://www.paulplayer.com/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -174,7 +175,7 @@ hfc_favicons:
 # lazyload
 lazyload:
   enable: true
-  onlypost: false # optional
+  onlypost: true # optional
   loadingImg: /css/images/loading.gif # optional eg ./images/loading.gif
   isSPA: false # optional
   preloadRatio: 3 # optional, default is 1
